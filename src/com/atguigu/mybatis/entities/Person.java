@@ -86,7 +86,7 @@ public class Person {
 	}
 	
 	public void said(){
-		system.out.println("adf");
+		System.out.println("adf");
 	}
 	
 }

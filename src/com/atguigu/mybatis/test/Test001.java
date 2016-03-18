@@ -129,7 +129,6 @@ public class Test001 {
 			PersonMapper mapper = sqlSession.getMapper(PersonMapper.class);
 			List<Person> list = mapper.getAll();
 			for (Person person : list) {
-				System.out.println(person.toString());
 			}
 		} catch (Exception e) {
 			// TODO Auto-generated catch block

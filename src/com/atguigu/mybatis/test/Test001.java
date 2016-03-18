@@ -130,6 +130,7 @@ public class Test001 {
 			List<Person> list = mapper.getAll();
 			for (Person person : list) {
 				System.out.println("hello github");
+				System.out.println("hello github");
 			}
 		} catch (Exception e) {
 			// TODO Auto-generated catch block

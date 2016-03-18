@@ -85,6 +85,8 @@ public class Person {
 				+ ", salary=" + salary + "]";
 	}
 	
-	
+	public void said(){
+		system.out.println("adf");
+	}
 	
 }

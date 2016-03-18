@@ -4,5 +4,10 @@ public class Person{
   public void Test(){
   system.out.println("HelloWord!");
   }
+  
+  @Test
+  public void Test02(){
+  system.out.println("try again");
+  };
 
 }

@@ -1,0 +1,8 @@
+public class Person{
+  
+  @Test
+  public void Test(){
+  system.out.println("HelloWord!");
+  }
+
+}
